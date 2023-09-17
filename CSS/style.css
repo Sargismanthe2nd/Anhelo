@@ -1,0 +1,40 @@
+/* style.css */
+
+body {
+    background-color: black;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    background-color: darkred;
+    color: lightgray;
+    border: 4px solid white;
+    padding: 10px;
+    height: 30px;
+  }
+  .navbar-button {
+    background-color: black;
+    border: 5px solid white;
+    padding: 20px;
+    border-radius: 100px;
+    margin: left;
+    width: 0px;
+  }
+  
+  /* Add more CSS rules for other elements as needed */
+  .content-block {
+  }
+  
+  .content {
+    background-color: darkred;
+    color: lightgray;
+    border: 4px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+
